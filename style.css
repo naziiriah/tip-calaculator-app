@@ -56,7 +56,7 @@ section
 section
 .container
 .body-section{
-    height:90%;
+    height:70%;
     margin:1rem;
     width:90%;
 }
@@ -166,7 +166,7 @@ p{
 section
 .container
 .display{
-    height:90%;
+    height:70%;
     background-color: var(--Very-dark-cyan);
     margin: 1rem;
     border-radius: 7px;
