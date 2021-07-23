@@ -41,7 +41,7 @@ header
 section
 .container{
     width:62%;
-    height: 50%;
+    height: 70%;
     background-color:var(--White);
     display: grid;
     grid-template-columns: 45% 45%;

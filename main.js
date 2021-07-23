@@ -60,6 +60,4 @@ function errorDisplay(){
     peopl.style.border = "2px solid red"
     people.style.borderRadius = "5px"
     err.style.visibility = "visible"
-    
-
 }
